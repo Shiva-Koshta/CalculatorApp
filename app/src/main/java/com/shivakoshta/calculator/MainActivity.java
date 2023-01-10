@@ -127,10 +127,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         {
             answer = answer.replace(".0","");
         }
-        if(answer.equals("143"))
-        {
-            answer = "Padae Krle Jaa Ke;)";
-        }
+//        if(answer.equals("143"))
+//        {
+//            answer = "Padae Krle Jaa Ke;)";
+//        }
         return answer;
     }
 
